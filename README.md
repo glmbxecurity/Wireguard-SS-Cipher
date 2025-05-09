@@ -83,7 +83,7 @@ Para cifrar la clave privada de un cliente, simplemente ejecuta el script y sigu
 
 * Almacenamiento seguro: El archivo de passphrase y los archivos cifrados se guardan en el directorio del cliente.
 
-### Conexión Automática al túnel
+### 🔌 Conexión Automática al túnel
 Todo esto está muy bien pero y como me conecto a mí VPN?   
   
 Puede parecer una locura muy tediosa, pero ya he pensado en ello. Para realizar la conexión he desarrollado otro Script llamado Wireguard-SS-Connector.  
