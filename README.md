@@ -30,7 +30,7 @@ Para usar Wireguard-SS-Cipher, necesitarás:
 
 Clonar el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/Wireguard-SS-Cipher.git
+git clone https://github.com/glmbxecurity/Wireguard-SS-Cipher.git
 cd Wireguard-SS-Cipher
 ```
 Asegurarse de tener los requisitos:
